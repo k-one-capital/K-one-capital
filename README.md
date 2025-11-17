@@ -12,8 +12,8 @@ Créer un capital commun, investir intelligemment et bâtir une liberté financi
 - Suivi mensuel via le PDF “Bilan K-One Capital”
 
 ## 🧩 Membres fondateurs
-- K-Singo (Canada)
-- B-Yaya (Canada)
+- K-Singo & B-Yaya.
+
 
 ## 📅 Fondé le : 23 octobre 2025
 
@@ -23,3 +23,4 @@ Ce dépôt servira à :
 - Publier nos documents officiels (bilan mensuel, stratégie)
 - Garder l’historique de l’évolution de notre capital
 - Héberger le code de la future plateforme K-One Capital
+- update founders
