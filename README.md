@@ -13,7 +13,7 @@ Créer un capital commun, investir intelligemment et bâtir une liberté financi
 
 ## 🧩 Membres fondateurs
 - K-Singo (Canada)
-- Hani (Afrique → Canada)
+- B-Yaya (Canada)
 
 ## 📅 Fondé le : 23 octobre 2025
 
