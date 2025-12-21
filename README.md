@@ -24,4 +24,9 @@ Ce dépôt servira à :
 - Publier nos documents officiels (bilan mensuel, stratégie)
 - Garder l’historique de l’évolution de notre capital
 - Héberger le code de la future plateforme K-One Capital
+<hr>
+<p style="font-size:12px; color:gray; text-align:center;">
+<strong>Affiliate Disclosure</strong><br>
+As an Amazon Associate, I earn from qualifying purchases.
+</p>
 
